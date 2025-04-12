@@ -24,7 +24,7 @@
     background-size: contain;
     background-repeat: no-repeat;
     background-blend-mode: lighten;
-    background-color: rgba(255,255,255,0.6);
+    background-color: rgba(255,255,255,0.9);
 }
 @media screen and (min-width: 480px) {
     .hero {
