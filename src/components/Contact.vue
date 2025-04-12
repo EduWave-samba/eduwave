@@ -11,7 +11,7 @@
                         <a href="https://wa.me/917051532939?text=Hi%2C%20I%27m%20interested%20in%20your%20tuition%20services." class="btn  btn-block whatsapp-button"><i class="material-icons" style="margin-bottom:4px">message</i>Whatsapp</a>
                     </div>
                     <div class="col s6 custom-margin" v-if="!isDesktop">
-                        <a href="https://www.instagram.com/eduwave.samba" class="btn btn-block instagram-button"><img src="../assets/instagram.png" class="responsive-img" style="height:24px" />Follow Us</a>
+                        <a href="https://www.instagram.com/eduwave.samba" class="btn btn-block instagram-button"><img src="../assets/instagram.png" class="responsive-img" style="height:24px" />Follow</a>
                     </div>
                     <div class="col s6 custom-margin">
                         <a href="tel:+917051532939" class="btn btn-block call-button"><i class="material-icons" style="margin-bottom:4px">phone</i>Call Us</a>
