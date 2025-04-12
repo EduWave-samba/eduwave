@@ -1,6 +1,6 @@
 <template>
     <div id="contact" class="container">
-        <h4 class="center-align">Contact Us</h4>
+        <h4 class="center-align">We’d Love to Hear From You!!</h4>
         <div class="row">
             <div class="col s12 m6">
                 <div v-if="isDesktop">
@@ -30,6 +30,11 @@
 
 </template>
 <style scoped>
+@media only screen and (min-width: 600px) {
+    #contact {
+        padding: 60px;
+  }
+}
 .custom-margin {
     margin: 10px 0;
 }

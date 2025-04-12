@@ -1,7 +1,7 @@
 <template>
     <div id="subjects">
         <h3>
-            Subjects we can offer
+            Subjects we can offer!!
         </h3>
         <br><br>
         <div class="row">
@@ -100,6 +100,11 @@
     </div>
 </template>
 <style scoped>
+@media only screen and (min-width: 600px) {
+    #subjects {
+        padding: 60px;
+  }
+}
 .tabs .tab a {
   color: #DAF4FA;
 }
