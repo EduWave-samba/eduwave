@@ -1,7 +1,7 @@
 <template>
-    <div id="faculty">
+    <!-- <div id="">
         Faculty----- WILL WORK ON THIS
-    </div>
+    </div> -->
 </template>
 <style>
 #faculty {

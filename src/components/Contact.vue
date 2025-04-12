@@ -1,16 +1,23 @@
 <template>
     <div id="contact" class="container">
-        <h4 class="center-align">We’d Love to Hear From You!!</h4>
+        <h3 class="center-align">We’d Love to Hear From You!!</h3>
         <div class="row">
             <div class="col s12 m6">
                 <div v-if="isDesktop">
                     <img src="../assets/instagramQR.png" class="responsive-img" style="height:300px">
+
+                    <div class="col s6 custom-margin">
+                        <a class="btn btn-block call-button"><i class="material-icons" style="margin-bottom:4px">phone</i>+91 70515 32939</a>
+                    </div>
+                    <div class="col s6 custom-margin">
+                        <a class="btn btn-block email-button" href="mailto:eduwavesamba@gmail.com?subject=Enquiry for Tuition Fee from Website&body=Hi, I’d like to know more about your tuition services."><i class="material-icons">email</i>Email Us</a>
+                    </div>
                 </div>
-                <div class="row">
-                    <div class="col s6 custom-margin" v-if="!isDesktop">
+                <div class="row" v-else>
+                    <div class="col s6 custom-margin">
                         <a href="https://wa.me/917051532939?text=Hi%2C%20I%27m%20interested%20in%20your%20tuition%20services." class="btn  btn-block whatsapp-button"><i class="material-icons" style="margin-bottom:4px">message</i>Whatsapp</a>
                     </div>
-                    <div class="col s6 custom-margin" v-if="!isDesktop">
+                    <div class="col s6 custom-margin">
                         <a href="https://www.instagram.com/eduwave.samba" class="btn btn-block instagram-button"><img src="../assets/instagram.png" class="responsive-img" style="height:24px" />Follow</a>
                     </div>
                     <div class="col s6 custom-margin">

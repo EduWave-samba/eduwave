@@ -3,7 +3,6 @@
         <h3>
             Subjects we can offer!!
         </h3>
-        <br><br>
         <div class="row">
             <div class="col s12">
             <ul class="tabs">

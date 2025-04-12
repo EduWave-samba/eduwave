@@ -11,7 +11,8 @@
             <li><router-link to="#home">Home</router-link></li>
             <li><router-link to="#why-us">Why Us</router-link></li>
             <li><router-link to="#subjects">Subjects</router-link></li>
-            <li><router-link to="#faculty">Faculty</router-link></li>
+            <!-- <li><router-link to="#faculty">Faculty</router-link></li> -->
+            <li><router-link to="#faq">FAQs</router-link></li>
             <li><router-link to="#contact">Contact Us</router-link></li>
           </ul>
         </div>

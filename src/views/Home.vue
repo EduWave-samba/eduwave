@@ -2,14 +2,16 @@
     <Hero/>
     <WhyUs/>
     <Subjects/>
-    <Faculty/>
+    <FAQs/>
+    <!-- <Faculty/> -->
     <Contact/>
 </template>
 <script>
 import Hero from "../components/Hero";
 import WhyUs from "../components/WhyUs";
 import Subjects from "../components/Subjects";
-import Faculty from "../components/Faculty";
+// import Faculty from "../components/Faculty";
+import FAQs from "../components/Faq";
 import Contact from "../components/Contact";
 
 export default {
@@ -17,7 +19,8 @@ export default {
     Hero,
     WhyUs,
     Subjects,
-    Faculty,
+    // Faculty,
+    FAQs,
     Contact,
   },
 };
