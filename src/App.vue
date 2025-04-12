@@ -39,6 +39,11 @@ a {
 .brand-logo {
   display: flex !important;
 }
+@media screen and (max-width: 480px) {
+  .brand-logo {
+  left: 45% !important;
+}
+}
 .navbar-fixed {
   z-index: 1000;
 }

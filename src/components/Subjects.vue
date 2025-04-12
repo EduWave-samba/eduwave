@@ -112,9 +112,6 @@
   color:#DAF4FA;
   background-color: #daf4fa8d;
 }
-.indicator {
-    background-color: #DAF4FA !important;
-}
 .tabs .indicator {
     background-color: #DAF4FA !important;
 }
