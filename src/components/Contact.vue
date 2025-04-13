@@ -30,7 +30,7 @@
                 <p><i class="material-icons left">location_on</i>EduWave, 1st Floor, Care Health Insurance, Near Hospital Road, National Highway, Samba, J&K</p>
             </div>
             <div class="video-container col s12 m6" style="margin-top: 20px; height:420px">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d210.16993606578552!2d75.11917904857012!3d32.56034457354678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391c228e275f489d%3A0x84571966b3c68b65!2sNIIT%20Samba%20Centre!5e0!3m2!1sen!2sin!4v1744390923406!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13451.403014602716!2d75.1195103!3d32.5568282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391c232e74f25b03%3A0xe40e8be87ffae106!2sEduWave%20Study%20Centre!5e0!3m2!1sen!2sin!4v1744569089024!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </div>
